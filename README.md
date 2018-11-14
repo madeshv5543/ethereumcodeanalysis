@@ -1,6 +1,5 @@
 
-<!-- saved from url=(0051)https://translate.googleusercontent.com/translate_f -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre># go-ethereum-code-analysis
+# go-ethereum-code-analysis
 
 **I hope to analyze the code of Ethereum to learn the use of blockchain technology and GO language**
 
@@ -33,6 +32,3 @@ To analyze the process of [go-ethereum] (https://github.com/ethereum/go-ethereum
 - [miner mining part of the source code analysis CPU mining] (/miner mining part of the source code analysis CPU mining. md)
 - [pow consistency algorithm] (/pow consistency algorithm.md)
 - [European Square test network Clique_PoA introduction] (/ Ethereum test network Clique_PoA introduction.md)
-
-
-</pre></body></html>
